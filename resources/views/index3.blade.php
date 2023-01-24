@@ -292,7 +292,7 @@
                         <div class="content">
                             <p class="description">
                                 Learning International Language as well as Performing excellently in
-                                conventionsl Curricular activities is awesome, to me.
+                                conventions Curricular activities is awesome, to me.
                                 Having the Chance to Learn ICT Skill is the most Beneficial to me and my Children.
                             </p>
                         </div>
@@ -310,6 +310,7 @@
                     <!-- /testimonial -->
                 </div>
                 <!-- /owl-testimonial -->      </div>
+
             <!-- /row -->
         </div>
         <!-- /container-->
